@@ -8,7 +8,7 @@ This is a work day planner that employees with a busy schedule can use to add im
 No installation required.
 
 ## Usage
-To access the application the user needs to navigate to [Work Day Scheduler]().  
+To access the application the user needs to navigate to [Work Day Scheduler](https://naike-b.github.io/Work-Day-Scheduler/).  
 The user can see the current date at the top of the page.  
 Each hour of the work day has its own line. Every time block is colour-coded based on the time of the day:
 - Grey: past
@@ -35,7 +35,7 @@ Please refer to the license in the repository.
 
 I want to express my gratitude to my instructor, my teaching assistant and my tutors and my study group. They were very helpful and provided me with a lot of support to finish this application. 🚀
 
-Resources:
+Resources:  
 [Days.js - JavaScript library (Format)](https://day.js.org/docs/en/display/format#docsNav)  
 [JavaScript parseInt()](https://www.w3schools.com/JSREF/jsref_parseint.asp)  
 [Javascript String split()](https://www.javascripttutorial.net/javascript-string-split/)  
