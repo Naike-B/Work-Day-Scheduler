@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a work day planner that employees with a busy schedule can use to add important events in order to manage their time effectively.
+This is a work day scheduler that employees with a busy schedule can use to add important events in order to manage their time effectively.
 
 ## Installation
 No installation required.
@@ -16,8 +16,8 @@ Each hour of the work day has its own line. Every time block is colour-coded bas
 - Green: future  
 
 The colour of the time block is updated as the time passes.  
-The user can add an event to the planner by clicking on one of the time blocks and typing the title of the event.  
-The user can save the event entered, to the browser's local storage by clicking on the save button on the same line.  
+The user can add an event to the scheduler by clicking on one of the time blocks and typing the title of the event.  
+The user can save the event entered on the page to the browser's local storage by clicking on the save button on the same line.  
 To update an event, the user can click on the time block, delete the event title and then add a new one.  
 Once that's done the event can be saved by clicking on the save button on the same line.  
 If the user refreshes the page, the events saved will still be visible.
